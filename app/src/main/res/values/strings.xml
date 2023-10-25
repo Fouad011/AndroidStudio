@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TP_3</string>
+    <string name="ecrire_votre_message">ecrire votre message</string>
+    <string name="send">SEND</string>
+</resources>
